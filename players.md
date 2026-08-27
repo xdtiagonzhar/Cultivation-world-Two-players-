@@ -30,7 +30,6 @@
 | 神Nēru | Desa Tiedao, Central Plains | Mortal Foundation, Awal | Sanxiu (tanpa sekte) |
 | Lu Qingxuan | Desa Xingcun, Central Plains | Mortal Foundation, Awal | Sanxiu (tanpa sekte) |
 | Paijo | Kota Luoyang Kecil, Central Plains | Mortal Foundation, Awal | Sanxiu (tanpa sekte) |
-| Azmud | Desa Heiyan, Southern Demon Domain | Mortal Foundation, Awal | Sanxiu (tanpa sekte) |
 
 *(Admin menambah baris baru di sini setiap kali mendaftarkan karakter baru di §4.)*
 
