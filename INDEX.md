@@ -46,7 +46,7 @@
 | 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/41_CUSTOM_SECTS.md | **Sekte/Dojo/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | 42 | `42_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/42_CUSTOM_TECHNIQUES.md | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| — | `README.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/README.md | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
+| — | `README.md` | https://github.com/xdtiagonzhar/Cultivation-world-Two-players-/blob/main/README.md | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
 
 ### 1a. Direktori Sekte, Dojo & Organisasi (24 File Individual)
 
