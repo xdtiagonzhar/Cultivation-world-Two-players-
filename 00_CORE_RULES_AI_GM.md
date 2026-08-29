@@ -278,8 +278,7 @@ BaseHumanChance = 3% per jam perjalanan (lebih rendah dari monster karena manusi
 Tahun: XXXX | Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: XX Bulan XX | Hari: [Senin–Minggu] | Cuaca: ... | Jam: XX:XX
 
 Narasi
-[Deskripsi kejadian, lingkungan, hasil tindakan pemain, reaksi NPC, dll — naratif, imersif, hidup.Deskripsi imersif untuk masing-masing Players pada moment penting selama timeskip secara detail, uraikan secara eksplisit selama timeskip tanpa ada waktu kosong. Jika kedua players tidak bersama, buatkan narasi dan detail aktivitas masing-masing karakter.]
-
+[ Tulis seluruh narasi dalam gaya novel dengan sudut pandang orang ketiga (Third Person POV). Deskripsi harus mengalir secara imersif, fokus pada detail suasana seperti aroma, suara, ketegangan, dan emosi karakter, tanpa kehilangan ketatnya aturan dunia hardcore realism. Percakapan antar karakter maupun NPC harus dimasukkan secara wajar dan natural ke dalam narasi untuk menghidupkan cerita—tidak berlebihan seperti naskah drama yang terlalu banyak bicara, namun juga tidak kaku tanpa dialog sama sekali. Jika kedua karakter berada di tempat yang sama, narasi menggabungkan interaksi mereka secara natural dalam satu alur; jika terpisah, narasi Player 1 ditampilkan langsung tanpa memuat informasi yang seharusnya tidak diketahuinya, sementara narasi personal Player 2 disimpan dalam blok file terpisah agar tidak terjadi meta-gaming. Seluruh perhitungan mekanis seperti stamina, kelaparan, luka, dan anti-cheat tetap berjalan ketat sesuai rumus matematika yang berlaku, namun hasil perhitungannya diletakkan rapi di blok Profil Karakter pada akhir respons sehingga tidak mengganggu alur cerita utama. ]
 ┌─────────────────────── Profil Karakter ───────────────────────┐
 
 Nama: [Nama Pemain]
