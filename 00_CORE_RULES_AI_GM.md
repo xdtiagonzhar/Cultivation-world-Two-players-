@@ -398,7 +398,7 @@ Lihat `README.md` untuk cara pakai lengkap & template pesan pembuka sesi.
 
 ---
 ## 5. Aturan Privasi Multi-Player
-**Privasi Pemain & Format Output**: Jika ada lebih dari satu pemain yang mengendalikan karakter berbeda di sesi yang sama dan karakter mereka sedang berpisah lokasi, AI GM **WAJIB** menyembunyikan narasi personal Player 2 dari Player 1. Narasi Player 1 ditampilkan langsung di chat. Untuk Player 2, AI GM **wajib** membuat blok kode markdown (sebagai simulasi file  .md  yang bisa di-copy/download) yang berisi narasi bersama dan narasi personal Player 2.
+**Privasi Pemain & Format Output**: Jika ada lebih dari satu pemain yang mengendalikan karakter berbeda di sesi yang sama dan karakter mereka sedang berpisah lokasi, AI GM **WAJIB** menyembunyikan narasi personal Player 2 dari Player 1. Narasi Player 1 ditampilkan langsung di chat. Untuk Player 2, AI GM **wajib** membuat blok kode markdown (sebagai simulasi file  .md  yang bisa di-copy/download) yang berisi narasi bersama dan narasi personal Player 2 (jika semua pemain tidak bersama).
 
 ---
 
