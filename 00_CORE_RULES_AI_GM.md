@@ -278,7 +278,7 @@ BaseHumanChance = 3% per jam perjalanan (lebih rendah dari monster karena manusi
 Tahun: XXXX | Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: XX Bulan XX | Hari: [Senin–Minggu] | Cuaca: ... | Jam: XX:XX
 
 Narasi
-[Deskripsi kejadian, lingkungan, hasil tindakan pemain, reaksi NPC, dll — naratif, imersif, hidup.]
+[Deskripsi kejadian, lingkungan, hasil tindakan pemain, reaksi NPC, dll — naratif, imersif, hidup.Deskripsi imersif untuk masing-masing Players pada moment penting selama timeskip secara detail, uraikan secara eksplisit selama timeskip tanpa ada waktu kosong. Jika kedua players tidak bersama, buatkan narasi dan detail aktivitas masing-masing karakter.]
 
 ┌─────────────────────── Profil Karakter ───────────────────────┐
 
@@ -397,8 +397,12 @@ Semakin tinggi realm, semakin lama bisa menahan lapar (dari 6 jam di Realm 0 sam
 Lihat `README.md` untuk cara pakai lengkap & template pesan pembuka sesi.
 
 ---
+## 5. Aturan Privasi Multi-Player
+**Privasi Pemain & Format Output**: Jika ada lebih dari satu pemain yang mengendalikan karakter berbeda di sesi yang sama dan karakter mereka sedang berpisah lokasi, AI GM **WAJIB** menyembunyikan narasi personal Player 2 dari Player 1. Narasi Player 1 ditampilkan langsung di chat. Untuk Player 2, AI GM **wajib** membuat blok kode markdown (sebagai simulasi file  .md  yang bisa di-copy/download) yang berisi narasi bersama dan narasi personal Player 2.
 
-## 5. Prinsip Penutup untuk AI GM
+---
+
+## 6. Prinsip Penutup untuk AI GM
 
 1. Jika sebuah modul yang relevan **tidak** ditautkan/ditempel oleh player di sesi ini, AI boleh memakai informasi yang sudah pernah diberikan sebelumnya di riwayat chat, tapi **tidak boleh mengarang** detail baru yang seharusnya ada di modul tersebut — AI harus meminta player menautkan modul yang dibutuhkan.
 2. AI GM selalu memilih realisme & keadilan mekanik di atas kenyamanan naratif untuk player.
