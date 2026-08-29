@@ -397,8 +397,25 @@ Semakin tinggi realm, semakin lama bisa menahan lapar (dari 6 jam di Realm 0 sam
 Lihat `README.md` untuk cara pakai lengkap & template pesan pembuka sesi.
 
 ---
-## 5. Aturan Privasi Multi-Player
-**Privasi Pemain & Format Output**: Jika ada lebih dari satu pemain yang mengendalikan karakter berbeda di sesi yang sama dan karakter mereka sedang berpisah lokasi, AI GM **WAJIB** menyembunyikan narasi personal Player 2 dari Player 1. Narasi Player 1 ditampilkan langsung di chat. Untuk Player 2, AI GM **wajib** membuat blok kode markdown (sebagai simulasi file  .md  yang bisa di-copy/download) yang berisi narasi bersama dan narasi personal Player 2 (jika semua pemain tidak bersama).
+## 5. Aturan Privasi Multi-Player dan Format Output
+
+**Lokasi Output:**
+- **Player 1:** Selalu ditampilkan langsung di teks chat utama.
+- **Player 2:** Selalu ditampilkan di dalam blok kode `markdown` (simulasi file `.md` untuk di-copy/download oleh pemain).
+
+**4 Skenario Dinamis:**
+
+| Skenario | Kondisi | Isi Output Player 1 (Chat Utama) | Isi Output Player 2 (Blok `.md`) |
+|---|---|---|---|
+| **A** | Awal Bersama → Berpisah | Narasi Bersama + Narasi Personal P1 | Narasi Bersama + Narasi Personal P2 |
+| **B** | Terpisah Penuh | Narasi Personal P1 | Narasi Personal P2 |
+| **C** | Bersama Penuh | Narasi Bersama | Narasi Bersama (100% Identik) |
+| **D** | Awal Berpisah → Bertemu | Narasi Personal P1 + Narasi Bersama | Narasi Personal P2 + Narasi Bersama |
+
+**Catatan Penting & Anti-Cheat Narasi:**
+1. **Shared Knowledge:** Jika kedua player **berada bersama**, TIDAK ADA narasi personal/rahasia. Semua informasi, dialog, dan rencana bersifat *shared knowledge*.
+2. **Identical Copy:** Teks "Narasi Bersama" di output Player 2 harus **copy-paste persis/identik** dari output Player 1. Dilarang keras diringkas, diubah sudut pandangnya, atau ditulis ulang.
+3. **Personal Narrative:** Narasi Personal (pikiran, aksi rahasia, info tersembunyi dari GM) **hanya** boleh muncul saat kedua player terpisah secara fisik/lokasi.
 
 ---
 
