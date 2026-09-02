@@ -28,24 +28,24 @@
 |---|---|---|---|
 | 00 | `00_CORE_RULES_AI_GM.md` | https://github.com/xdtiagonzhar/Cultivation-world-Two-players-/blob/main/00_CORE_RULES_AI_GM.md | Aturan mutlak, anti-cheat, format respon wajib, cheat-sheet formula — **selalu difetch pertama** |
 | 👤 | `players.md` | https://github.com/xdtiagonzhar/Cultivation-world-Two-players-/blob/main/players.md | Data AWAL karakter (statis, dikelola admin — bukan save-state) — dicari lewat nama |
-| 01 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/01_WORLD_OVERVIEW_AND_CAPITAL.md | Peta jarak dunia & Ibu Kota Tianjing |
-| 02 | `02_CENTRAL_PLAINS.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/02_CENTRAL_PLAINS.md | Central Plains: kota, desa, sekte, NPC |
-| 03 | `03_AZURE_MOUNTAIN_RANGE.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/03_AZURE_MOUNTAIN_RANGE.md | Azure Mountain Range |
-| 04 | `04_SOUTHERN_DEMON_DOMAIN.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/04_SOUTHERN_DEMON_DOMAIN.md | Southern Demon Domain |
-| 05 | `05_EASTERN_SEA_REGION.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/05_EASTERN_SEA_REGION.md | Eastern Sea Region |
-| 06 | `06_NORTHERN_DESOLATE_TERRITORY.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/06_NORTHERN_DESOLATE_TERRITORY.md | Northern Desolate Territory |
-| 07 | `07_WESTERN_SACRED_DESERTS.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/07_WESTERN_SACRED_DESERTS.md | Western Sacred Deserts |
-| 08 | `08_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/08_CROSS_REGION_ORGANIZATIONS.md | Info broker, pegadaian, pembunuh bayaran, sanxiu, kriminal mortal |
-| 09 | `09_CULTIVATION_LAW_SYSTEM.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/09_CULTIVATION_LAW_SYSTEM.md | Realm, Hukum kultivasi, breakthrough, tribulasi, karma |
-| 10 | `10_ECONOMY_SYSTEM.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/10_ECONOMY_SYSTEM.md | Mata uang, tier/grade barang, harga jasa & aset |
-| 11 | `11_VITALITY_HUNGER_SYSTEM.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/11_VITALITY_HUNGER_SYSTEM.md | Formula HP, status luka, kelaparan |
-| 12 | `12_COMBAT_SYSTEM.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/12_COMBAT_SYSTEM.md | Giliran, initiative, damage, defense, escape |
-| 13 | `13_BESTIARY.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/13_BESTIARY.md | Monster & spirit beast per wilayah, ambush, loot |
+| 01 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/01_WORLD_OVERVIEW_AND_CAPITAL.md | Peta jarak dunia & Ibu Kota Tianjing |
+| 02 | `02_CENTRAL_PLAINS.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/02_CENTRAL_PLAINS.md | Central Plains: kota, desa, sekte, NPC |
+| 03 | `03_AZURE_MOUNTAIN_RANGE.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/03_AZURE_MOUNTAIN_RANGE.md | Azure Mountain Range |
+| 04 | `04_SOUTHERN_DEMON_DOMAIN.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/04_SOUTHERN_DEMON_DOMAIN.md | Southern Demon Domain |
+| 05 | `05_EASTERN_SEA_REGION.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/05_EASTERN_SEA_REGION.md | Eastern Sea Region |
+| 06 | `06_NORTHERN_DESOLATE_TERRITORY.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/06_NORTHERN_DESOLATE_TERRITORY.md | Northern Desolate Territory |
+| 07 | `07_WESTERN_SACRED_DESERTS.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/07_WESTERN_SACRED_DESERTS.md | Western Sacred Deserts |
+| 08 | `08_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/08_CROSS_REGION_ORGANIZATIONS.md | Info broker, pegadaian, pembunuh bayaran, sanxiu, kriminal mortal |
+| 09 | `09_CULTIVATION_LAW_SYSTEM.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/09_CULTIVATION_LAW_SYSTEM.md | Realm, Hukum kultivasi, breakthrough, tribulasi, karma |
+| 10 | `10_ECONOMY_SYSTEM.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/10_ECONOMY_SYSTEM.md | Mata uang, tier/grade barang, harga jasa & aset |
+| 11 | `11_VITALITY_HUNGER_SYSTEM.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/11_VITALITY_HUNGER_SYSTEM.md | Formula HP, status luka, kelaparan |
+| 12 | `12_COMBAT_SYSTEM.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/12_COMBAT_SYSTEM.md | Giliran, initiative, damage, defense, escape |
+| 13 | `13_BESTIARY.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/13_BESTIARY.md | Monster & spirit beast per wilayah, ambush, loot |
 | 14–37 | *(24 file sekte/dojo/organisasi individual)* | — | Lihat **§1a** di bawah untuk daftar lengkap per-file — **JANGAN** fetch semuanya sekaligus, cari nama sekte yang relevan lalu fetch HANYA file itu |
-| 39 | `39_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/39_CUSTOM_EVENTS.md | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
-| 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/41_CUSTOM_SECTS.md | **Sekte/Dojo/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| 42 | `42_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/inggo-alvn/jianghu-world/refs/heads/main/42_CUSTOM_TECHNIQUES.md | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 39 | `39_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/39_CUSTOM_EVENTS.md | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
+| 40 | `40_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/40_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 41 | `41_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/41_CUSTOM_SECTS.md | **Sekte/Dojo/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| 42 | `42_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/inggo-alvn/Core/refs/heads/main/42_CUSTOM_TECHNIQUES.md | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
 | — | `README.md` | https://github.com/xdtiagonzhar/Cultivation-world-Two-players-/blob/main/README.md | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
 
 ### 1a. Direktori Sekte, Dojo & Organisasi (24 File Individual)
